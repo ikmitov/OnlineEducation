@@ -1,2 +1,2 @@
 # OnlineEducation
-Resouses for Tools for Online Video Education
+Guidelines for Online Video Education Tools
